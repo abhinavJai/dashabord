@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "rxjs": "6.5.2",
-    "yarn": "1.16.0",
+    "yarn": "1.19.1",
     "tslib": "1.10.0",
     "core-js": "2.5.7",
     "zone.js": "0.9.1",
